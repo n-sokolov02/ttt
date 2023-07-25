@@ -1,5 +1,6 @@
 <?php
 
+echo "index" . PHP_EOL;
 $a = 1;
 
 $b = 2;
